@@ -1,0 +1,2 @@
+Dự án git-basic-practice dùng để thực hành các câu lệnh cơ bản của Git và GitHub.
+Tác giả: Vũ Bá Hùng (vubahung222)
